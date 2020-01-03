@@ -11,7 +11,7 @@ void main() {
         backgroundColor: Colors.blueGrey[50],
         body: Center(
           child: Image(
-            image: NetworkImage('http://okuzawats.com/img/saeco.png'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
