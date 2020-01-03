@@ -9,6 +9,9 @@ void main() {
           backgroundColor: Colors.blueGrey[900],
         ),
         backgroundColor: Colors.blueGrey[50],
+        body: Image(
+          image: NetworkImage('http://okuzawats.com/img/saeco.png'),
+        ),
       ),
     ),
   );
